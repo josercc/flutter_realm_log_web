@@ -34,6 +34,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  flutter_winner_app:
+    path: "plugins/flutter_winner_app"
 
 dev_dependencies:
   flutter_test:
@@ -45,6 +47,13 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
+  flutter_ume: ^0.3.0
+  flutter_ume_kit_ui: ^0.3.0
+  flutter_ume_kit_device: ^0.3.0
+  flutter_ume_kit_perf: ^0.3.0
+  flutter_ume_kit_show_code: ^0.3.0
+  flutter_ume_kit_console: ^0.3.0
+  flutter_ume_kit_dio: ^0.3.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
