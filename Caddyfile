@@ -1,0 +1,4 @@
+:5001 {
+	root * build/web
+	file_server browse
+}

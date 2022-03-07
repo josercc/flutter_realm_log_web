@@ -1,10 +1,9 @@
 #!/bin/bash
 
 # Set the port
-PORT=5000
+PORT=5001
 
 # switch directories
-cd build/web/
 
 # Start the server
 echo 'Server starting on port' $PORT '...'
