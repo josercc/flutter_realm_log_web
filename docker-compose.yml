@@ -1,0 +1,7 @@
+version: "3.0"
+services:
+  realm_log_app:
+    image: realm_log_web:latest
+    build: .
+    ports:
+      - "5000:5000"

@@ -1,7 +1,0 @@
-:8000 {
-	respond "12345"
-}
-
-:8001 {
-  root index.html /build/web
-}

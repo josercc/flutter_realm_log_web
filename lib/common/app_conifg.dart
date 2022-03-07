@@ -13,7 +13,7 @@ class AppConfog extends WinnerAppConfig {
     return WinnerEnvironmentUrl(
       debug: "http://127.0.0.1:9090",
       profile: "http://10.10.57.133",
-      release: "http://127.0.0.1",
+      release: "http://10.49.136.68:9999/realm_log_server",
     );
   }
 
